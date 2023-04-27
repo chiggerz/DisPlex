@@ -5,6 +5,7 @@ I am by no means a developer and have very limited knowledge of coding, but with
 
 Main feaatures I am hoping to achieve:
 - Link plex user with discord user
+- Invite to Plex server
 - Unlink users
 - Add expire dates 
 - View full list of all users on Plex servers, including:
